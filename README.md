@@ -1,6 +1,6 @@
 # Árbol
 
-ah que esta guapo el arbol
+ah que esta guapo el árbol
 
        *
        0
